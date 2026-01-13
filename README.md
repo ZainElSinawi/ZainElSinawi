@@ -1,4 +1,5 @@
-## Hi there 👋
+#👋 Hello, I'm Zain El-Sinawi!
+I'm a 3rd year student at Wright State University pursuing a degree in Computer Science.
 
 <!--
 **ZainElSinawi/ZainElSinawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
