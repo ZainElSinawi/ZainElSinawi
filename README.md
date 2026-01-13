@@ -1,4 +1,5 @@
 #👋 Hello, I'm Zain El-Sinawi!
+
 I'm a 3rd year student at Wright State University pursuing a degree in Computer Science.
 
 <!--
