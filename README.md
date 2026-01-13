@@ -2,6 +2,11 @@
 
 I'm a 3rd year student at Wright State University pursuing a degree in Computer Science.
 
+#Projects:
+
+1. I worked on a Create Your Own Adventure game using Java that allowed the player to pick how they wanted the game to progress.
+2. I worked on a game called Catacomb crawler using Java where the player had to find the catacomb exit while also encountering monsters that attacked the player.
+
 <!--
 **ZainElSinawi/ZainElSinawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
